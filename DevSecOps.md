@@ -6,3 +6,4 @@
 * KodeKloud 
 
 ## Readings & Trainings 
+* DevOps Roadmap - https://roadmap.sh/devops
