@@ -5,6 +5,8 @@ From scratch, I am planning to build a website for the Cloud Resume Challenge, w
 * Plan to run the website via Netlify
 * Generate basic website code via Hugo
 * Integrate CI/CD capabilities with Git
+* Add counter / form submission
+* Links / Blog Posts -> Medium + Thoreson Consulting
 
 ## Websites: 
 * https://cloudresumechallenge.dev/
