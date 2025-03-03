@@ -8,7 +8,9 @@ From scratch, I am planning to build a website for the Cloud Resume Challenge, w
   * Add security scans (Chekov / Prowler?)
   * The IaC component will be hosted internally (Gitea?) https://about.gitea.com/
 * Add counter / form submission
-* Links / Blog Posts -> Medium + Thoreson Consulting
+  * https://termly.io/resources/articles/website-tracking/ 
+  * Ideas: Vistors by country, page popularity, re-directs? 
+* Links / Blog Posts -> Medium + Thoreson Consulting old content
 
 ## Websites: 
 * https://cloudresumechallenge.dev/
