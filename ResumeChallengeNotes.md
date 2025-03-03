@@ -1,6 +1,13 @@
 # Notes for completeing the Cloud Resume Challenge  
 From scratch, I am planning to build a website for the Cloud Resume Challenge, with a full backend and CI/CD pipeline. 
 
+# Goals 
+* Use Terraform + Ansible to configure a Digital Ocean Droplet
+* Configured host will leverage a website publicly hosted on my GitHub built by Hugo
+* Include a CI/CD to push updates and deployments via a Dev & Prod environment
+* Build analytics, logging, and tracking for analytics
+* Implement security best practices and reporting
+
 # Notes
 * Plan to run the website via Netlify?
 * Generate basic website code via Hugo
