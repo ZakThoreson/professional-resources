@@ -1,5 +1,5 @@
 # Notes for completeing the Cloud Resume Challenge  
-From scratch, I am planning to build a website for the Cloud Resume Challenge, with a full backend and CI/CD pipeline. 
+This page serves as my notes on an abrigded approach to building a website to host my resume. Inspired by some reddit posts and the Cloud Resume Challenege, the goal is to get better at CI/CD, coding, and cloud architecture. 
 
 # Goals 
 * Use Terraform + Ansible to configure a Digital Ocean Droplet
