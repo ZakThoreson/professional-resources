@@ -9,7 +9,7 @@ This page serves as my notes on an abrigded approach to building a website to ho
 * Implement security best practices and reporting
 
 # Notes
-* Plan to run the website via Netlify?
+* Plan to run the website via Digital Ocean Droplet
 * Generate basic website code via Hugo
 * Integrate CI/CD capabilities with Git
   * Add security scans (Chekov / Prowler?)
