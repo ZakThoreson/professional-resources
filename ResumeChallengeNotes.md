@@ -6,6 +6,7 @@ From scratch, I am planning to build a website for the Cloud Resume Challenge, w
 * Generate basic website code via Hugo
 * Integrate CI/CD capabilities with Git
   * Add security scans (Chekov / Prowler?)
+  * The IaC component will be hosted internally (Gitea?) https://about.gitea.com/
 * Add counter / form submission
 * Links / Blog Posts -> Medium + Thoreson Consulting
 
