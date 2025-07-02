@@ -1,6 +1,12 @@
 # Notes for completeing the Cloud Resume Challenge  
 This page serves as my notes on an abrigded approach to building a website to host my resume. Inspired by some reddit posts and the Cloud Resume Challenege, the goal is to get better at CI/CD, coding, and cloud architecture. 
 
+# In Progress
+* Develop a Huge Website
+  * Deploy Locally
+  * Migrate content from Thoreson Consulting
+* Standardize resume for website consumption
+
 # Goals 
 * Use Terraform + Ansible to configure a Digital Ocean Droplet
 * Configured host will leverage a website publicly hosted on my GitHub built by Hugo
