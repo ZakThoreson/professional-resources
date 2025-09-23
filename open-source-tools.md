@@ -1,6 +1,6 @@
 
 ## Detection Engineering 
-### detections.ai
+* [detections.ai](detections.ai)
 
 ## Threat Hunting 
 ### Garuda Framework
