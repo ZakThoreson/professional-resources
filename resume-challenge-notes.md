@@ -21,6 +21,7 @@ This page serves as my notes on an abrigded approach to building a website to ho
 * Generate basic website code via Hugo
 * Integrate CI/CD capabilities with Git
   * Add security scans (Chekov / Prowler / Trivy?)
+    * https://github.com/aquasecurity/trivy-action
   * The IaC component will be hosted internally (Gitea?) https://about.gitea.com/
   * Setting up Gitea Actions
     * https://docs.gitea.com/usage/actions/design
