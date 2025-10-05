@@ -10,3 +10,8 @@ Garuda is a PowerShell-based threat hunting and investigation framework that tra
 
 ## Offensive Security 
 * [Periodic Table of Offensive Tools](https://github.com/Straw-Hat-Hacks/periodic-table-offensive-security)
+
+##Dev Ops 
+### Trivy Open Source CI/CD Scanner
+Created by the Aqua team, Trivy is a mutli-purpose scanner that can be added to pipelines to perform vulnerability and secrets scanning. 
+* https://github.com/aquasecurity/trivy-action
