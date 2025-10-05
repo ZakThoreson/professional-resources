@@ -17,6 +17,7 @@ This page serves as my notes on an abrigded approach to building a website to ho
 
 # Notes
 * Plan to run the website via Digital Ocean Droplet
+  * $6 a month! 
 * Generate basic website code via Hugo
 * Integrate CI/CD capabilities with Git
   * Add security scans (Chekov / Prowler / Trivy?)
