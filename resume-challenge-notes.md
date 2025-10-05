@@ -8,18 +8,22 @@ This page serves as my notes on an abrigded approach to building a website to ho
 * Standardize resume for website consumption
 
 # Goals 
-* Use Terraform + Ansible to configure a Digital Ocean Droplet
+* Use Terraform + Ansible to configure a Digital Ocean Droplet to host my website
 * Configured host will leverage a website publicly hosted on my GitHub built by Hugo
 * Include a CI/CD to push updates and deployments via a Dev & Prod environment
 * Build analytics, logging, and tracking for analytics
+* Write up on lessons learned / how I did it
 * Implement security best practices and reporting
 
 # Notes
 * Plan to run the website via Digital Ocean Droplet
 * Generate basic website code via Hugo
 * Integrate CI/CD capabilities with Git
-  * Add security scans (Chekov / Prowler?)
+  * Add security scans (Chekov / Prowler / Trivy?)
   * The IaC component will be hosted internally (Gitea?) https://about.gitea.com/
+  * Setting up Gitea Actions
+    * https://docs.gitea.com/usage/actions/design
+    * https://docs.gitea.com/usage/actions/act-runner
 * Add counter / form submission
   * https://termly.io/resources/articles/website-tracking/ 
   * Ideas: Vistors by country, page popularity, re-directs? 
