@@ -6,6 +6,7 @@ This page serves as my notes on an abrigded approach to building a website to ho
   * Deploy Locally
   * Migrate content from Thoreson Consulting
 * Standardize resume for website consumption
+* Research & deploy runner infrastructure for Gitea / Digital Ocean deployment pipelines
 
 # Goals 
 * Use Terraform + Ansible to configure a Digital Ocean Droplet to host my website
